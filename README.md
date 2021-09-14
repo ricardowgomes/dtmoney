@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="dtmoney" title="dtmoney" width="400px"  src=".github/logo.svg" />
+  <img alt="dtmoney" title="dtmoney" width="400px"  src="src/assets/logo.svg" />
 </h1>
 
 ## 💲 About the project
